@@ -1,0 +1,91 @@
+**** BEGIN LOGGING AT Mon Dec 23 20:57:25 2019
+
+Dec 23 20:57:25 *	*** Looking up your hostname...
+Dec 23 20:57:25 *	*** Checking Ident
+Dec 23 20:57:26 *	*** Found your hostname
+Dec 23 20:57:32 *	*** No Ident response
+Dec 23 20:57:32 *	Capabilities supported: account-notify away-notify cap-notify chghost extended-join identify-msg multi-prefix sasl tls
+Dec 23 20:57:32 *	Capabilities requested: account-notify away-notify cap-notify chghost extended-join identify-msg multi-prefix 
+Dec 23 20:57:32 *	Capabilities acknowledged: account-notify away-notify cap-notify chghost extended-join identify-msg multi-prefix 
+**** ENDING LOGGING AT Mon Dec 23 20:57:33 2019
+
+**** BEGIN LOGGING AT Mon Dec 23 20:57:33 2019
+
+Dec 23 20:57:33 *	Welcome to the freenode Internet Relay Chat Network manjaroi3
+Dec 23 20:57:33 *	Your host is hitchcock.freenode.net[130.185.232.126/6667], running version ircd-seven-1.1.9
+Dec 23 20:57:33 *	This server was created Wed Dec 18 2019 at 01:00:47 UTC
+Dec 23 20:57:33 *	hitchcock.freenode.net ircd-seven-1.1.9 DOQRSZaghilopsuwz CFILMPQSbcefgijklmnopqrstuvz bkloveqjfI
+Dec 23 20:57:33 *	CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstuz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode STATUSMSG=@+ CALLERID=g CASEMAPPING=rfc1459 :are supported by this server
+Dec 23 20:57:33 *	CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 DEAF=D FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,ajrxz CLIENTVER=3.0 WHOX SAFELIST ELIST=CTU :are supported by this server
+Dec 23 20:57:33 *	ETRACE CPRIVMSG CNOTICE KNOCK :are supported by this server
+Dec 23 20:57:33 *	There are 103 users and 82699 invisible on 29 servers
+Dec 23 20:57:33 *	34 :IRC Operators online
+Dec 23 20:57:33 *	50 :unknown connection(s)
+Dec 23 20:57:33 *	50286 :channels formed
+Dec 23 20:57:33 *	I have 2832 clients and 1 servers
+Dec 23 20:57:33 *	2832 3126 :Current local users 2832, max 3126
+Dec 23 20:57:33 *	82802 87465 :Current global users 82802, max 87465
+Dec 23 20:57:33 *	Highest connection count: 3127 (3126 clients) (78064 connections received)
+Dec 23 20:57:33 *	- hitchcock.freenode.net Message of the Day - 
+Dec 23 20:57:33 *	-  
+Dec 23 20:57:33 *	- Welcome to hitchcock.freenode.net in Sofia, Bulgaria, EU, kindly sponsored by
+Dec 23 20:57:33 *	- Elemental TV (www.elemental.tv)
+Dec 23 20:57:33 *	-  
+Dec 23 20:57:33 *	- HITCHCOCK, SIR ALFRED [1899 - 1980] Born in Essex,
+Dec 23 20:57:33 *	- England, Sir Alfred Hitchcock was a noted film director
+Dec 23 20:57:33 *	- and producer. Over a long career he pioneered many modern
+Dec 23 20:57:33 *	- techniques in film-making, made more than 50 feature films,
+Dec 23 20:57:33 *	- and influenced many present-day directors and producers.
+Dec 23 20:57:33 *	-  
+Dec 23 20:57:33 *	- Welcome to freenode - supporting the free and open source
+Dec 23 20:57:33 *	- software communities since 1998.
+Dec 23 20:57:33 *	-  
+Dec 23 20:57:33 *	- By connecting to freenode you indicate that you have read and
+Dec 23 20:57:33 *	- accept our policies and guidelines as set out on https://freenode.net
+Dec 23 20:57:33 *	-  
+Dec 23 20:57:33 *	- In the event that you observe behaviour that contravenes our policies,
+Dec 23 20:57:33 *	- please notify a volunteer staff member via private message, or send us an
+Dec 23 20:57:33 *	- e-mail to complaints@freenode.net -- we will do our best to address the
+Dec 23 20:57:33 *	- situation within a reasonable period of time, and we may request further
+Dec 23 20:57:33 *	- information or, as appropriate, involve other parties such as channel operators 
+Dec 23 20:57:33 *	- Group Contacts representing an on-topic group.
+Dec 23 20:57:33 *	-  
+Dec 23 20:57:33 *	- freenode runs an open proxy scanner.
+Dec 23 20:57:33 *	-  
+Dec 23 20:57:33 *	- If you are looking for assistance, you may be able to find a list of 
+Dec 23 20:57:33 *	- volunteer staff on '/stats p' (shows only on-call staff) or by joining 
+Dec 23 20:57:33 *	- #freenode and using the '/who freenode/staff/*' command. You may message
+Dec 23 20:57:33 *	- any of us at any time. Please note that freenode predominantly provides 
+Dec 23 20:57:33 *	- assistance via private message, and while we have a network channel the 
+Dec 23 20:57:33 *	- primary venue for support requests is via private message to a member 
+Dec 23 20:57:33 *	- of the volunteer staff team.
+Dec 23 20:57:33 *	-  
+Dec 23 20:57:33 *	- From time to time, volunteer staff may send server-wide notices relating to
+Dec 23 20:57:33 *	- the project, or the communities that we host. The majority of such notices
+Dec 23 20:57:33 *	- will be sent as wallops, and you can '/mode <yournick> +w' to ensure that you
+Dec 23 20:57:33 *	- do not miss them. Important messages relating to the freenode project, including
+Dec 23 20:57:33 *	- notices of upcoming maintenance and other scheduled downtime will be issued as
+Dec 23 20:57:33 *	- global notices.
+Dec 23 20:57:33 *	-  
+Dec 23 20:57:33 *	- Representing an on-topic project? Don't forget to register, more information
+Dec 23 20:57:33 *	- can be found on the https://freenode.net website under "Group Registration".
+Dec 23 20:57:33 *	-  
+Dec 23 20:57:33 *	- Thank you also to our server sponsors for the sustained support in keeping the
+Dec 23 20:57:33 *	- network going for close to two decades.
+Dec 23 20:57:33 *	-  
+Dec 23 20:57:33 *	- Thank you to all of our attendees, sponsors, speakers, exhibitors, helpers,
+Dec 23 20:57:33 *	- and everyone else who made this year's freenode #live conference amazing.
+Dec 23 20:57:33 *	- https://freenode.net/news/live-2018
+Dec 23 20:57:33 *	-  
+Dec 23 20:57:33 *	- Thank you for using freenode!
+Dec 23 20:57:33 *	End of /MOTD command.
+Dec 23 20:57:33 *	manjaroi3 sets mode +i on manjaroi3
+Dec 23 20:57:33 -NickServ-	This nickname is registered. Please choose a different nickname, or identify via /msg NickServ identify <password>.
+Dec 23 20:57:33 -freenode-connect-	Welcome to freenode. To protect the network all new connections will be scanned for vulnerabilities. This will not harm your computer, and vulnerable hosts will be notified.
+Dec 23 20:57:33 *	Received a CTCP VERSION from freenode-connect
+Dec 23 20:57:39 *	#manjaro #manjaro-unregistered :Forwarding to another channel
+Dec 23 20:57:48 Sysinfo plugin unloaded
+Dec 23 20:57:48 Perl interface unloaded
+Dec 23 20:57:48 Checksum plugin unloaded
+**** ENDING LOGGING AT Mon Dec 23 20:57:48 2019
+
